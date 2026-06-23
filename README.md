@@ -1,0 +1,1 @@
+SpendWise AI Full Project with FastAPI, PyTorch, GenAI concepts
